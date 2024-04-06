@@ -6,6 +6,29 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+train=pd.read_csv('/Users/maxiaoou/Documents/2024.1 term/courses/QF5214/kaggle project/train 3.csv')
+test=pd.read_csv('/Users/maxiaoou/Documents/2024.1 term/courses/QF5214/kaggle project/test 2.csv')
+original=pd.read_csv("/Users/maxiaoou/Documents/2024.1 term/courses/QF5214/kaggle project/clean_churn.csv")
+
+train.drop(columns=["id"],inplace=True)
+test.drop(columns=["id"],inplace=True)
+original.drop(columns=['RowNumber'],inplace=True)
+
+train_copy=train.copy()
+test_copy=test.copy()
+original_copy=original.copy()
+original["original"]=1
+
+train["original"]=0
+test["original"]=0
+
+train=pd.concat([train,original.dropna()],axis=0)
+train.reset_index(inplace=True,drop=True)
+
+target='Exited'
+
+train.head()
+
 
 final_features=[f for f in train.columns if f not in [target]]
 final_features=[*set(final_features)]
