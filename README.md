@@ -13,4 +13,4 @@ losses and bolstering customer loyalty.
 
 ***2. Dataset***
 
-We select two bank customer churn datasets: [dataset 1](https://www.kaggle.com/competitions/playground-series-s4e1), [dataset 2](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction), which contains over one hundred and fifty thousand structured and unstructured data of bank customers who either left the bank or continue to be a customer.
+We select two bank customer churn datasets: [dataset 1](https://www.kaggle.com/competitions/playground-series-s4e1), [dataset 2](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction), which contains over one hundred and fifty thousand structured and unstructured data of bank customers who either left the bank or continue to be a customer. You can also download the datasets in the *Data* file.
