@@ -1,4 +1,4 @@
-**This is QF5214 project of GROUP 12**
+**This is QF5214 project of GROUP 12 Bank Customer Churn Prediction**
 
 ***1. Problem Stataement***
 
