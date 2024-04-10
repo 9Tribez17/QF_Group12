@@ -1,5 +1,7 @@
 **This is QF5214 project of GROUP 12**
+
 *Problem Stataement*
+
 In the dynamic landscape of the financial sector, a critical challenge faced by banks
 is the retention of their clientele. The ability to accurately predict which customers
 are at risk of discontinuing their banking services, referred to as customer churn, can
