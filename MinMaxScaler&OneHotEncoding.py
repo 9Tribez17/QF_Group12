@@ -39,5 +39,3 @@ def OHE(data):
     return (data)
 
 data = OHE(min_max_scaler(data))
-print(data)
-data.to_csv('data.csv', index=False)
