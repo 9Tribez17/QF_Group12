@@ -17,4 +17,4 @@ We select two bank customer churn datasets: [dataset 1](https://www.kaggle.com/c
 
 ***3. Demo***
 
-We also provide a demo in **demo** file. In the demo, you can see a csv dataset for testing, a pth trained model, and ipynb. You can follow the code in the jupyter notebook to predict the bank customer churn.
+We also provide a demo in **demo** file. In the demo, you can see a csv dataset for testing, a pth trained model, and an ipynb. You can follow the code in the jupyter notebook to predict the bank customer churn.
