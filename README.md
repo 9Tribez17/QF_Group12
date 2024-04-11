@@ -15,7 +15,7 @@ losses and bolstering customer loyalty.
 
 We select two bank customer churn datasets: [dataset 1](https://www.kaggle.com/competitions/playground-series-s4e1), [dataset 2](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction), which contains over one hundred and fifty thousand structured and unstructured data of bank customers who either left the bank or continue to be a customer. You can also download the datasets in the **data** file.
 
-***3. Arthitecture Design***
+***3. Architecture Design***
 
 ![image](https://github.com/9Tribez17/QF_Group12/blob/main/2.pdf)
 
