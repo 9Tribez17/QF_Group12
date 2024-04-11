@@ -17,7 +17,7 @@ We select two bank customer churn datasets: [dataset 1](https://www.kaggle.com/c
 
 ***3. Architecture Design***
 
-![image](https://github.com/9Tribez17/QF_Group12/blob/main/2.pdf)
+![image](https://github.com/9Tribez17/QF_Group12/blob/main/arch.png)
 
 ***3. Demo***
 
