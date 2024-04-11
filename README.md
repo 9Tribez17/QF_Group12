@@ -19,8 +19,8 @@ We select two bank customer churn datasets: [dataset 1](https://www.kaggle.com/c
 
 ![image](https://github.com/9Tribez17/QF_Group12/blob/main/arch.png)
 
-This is our design of our architecture. You can find the cleaned dataset through ELT process in **data** file. This image is a good guidence if you want to follow our steo throughout our code.
+This is our design of our architecture. You can find the cleaned dataset through ELT process in **data** file. This image is a good guidence if you want to follow our step throughout our code.
 
-***3. Demo***
+***4. Demo***
 
 We also provide a demo in **demo** file. In the demo, you can see a csv dataset for testing, a pth trained model, and an ipynb. You can follow the code in the jupyter notebook to predict the bank customer churn.
