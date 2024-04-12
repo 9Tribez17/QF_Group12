@@ -23,4 +23,4 @@ This is our design of our architecture. You can find the cleaned dataset through
 
 ***4. Demo***
 
-We also provide a demo in **demo** file. In the demo, you can see a csv dataset for testing, a pth trained model, and an ipynb. You can follow the code in the jupyter notebook to predict the bank customer churn.
+We also provide a demo in **demo** file. In the demo, you can see a csv dataset for testing, a pth trained model, and an ipynb. You can follow the code in the jupyter notebook to predict the bank customer churn. Or you can visit ![online demo](https://drive.google.com/drive/folders/1OrOTwMYFMGYMXXAyE7Wdy4mboMFT4Xtx?usp=sharing) in Google colab.
